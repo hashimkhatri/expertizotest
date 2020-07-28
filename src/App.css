@@ -1,0 +1,73 @@
+.myjumbotron {
+  background-color: transparent;
+}
+.mainBar {
+  border: 1px solid black;
+  height: 40px;
+  background-color: transparent;
+  border-radius: 7px;
+}
+.bottomInnerBar {
+  height: 40px;
+  border-radius: 0%;
+}
+
+.bottomInnerBar1 {
+  background-color: lightgray;
+}
+.bottomInnerBar2 {
+  background-color: black;
+}
+.bottomInnerBar3 {
+  background-color: darkgray;
+}
+.paddingBottomBar {
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.scoreText {
+  font-weight: bold;
+}
+.mainTopBar {
+  border: 0px solid transparent;
+  height: 15px;
+  background-color: transparent;
+  border-radius: 0;
+}
+.topInnerBar {
+  background-color: gray;
+}
+.innerLayoutPadding {
+  padding-top: 20;
+}
+.bottomBarPosition {
+  position: absolute;
+  width: 100%;
+  bottom: 30px;
+}
+.categoryHeading {
+  color: gray;
+}
+.question {
+  margin-top: 30px;
+  font-weight: 600;
+  font-size: 20px;
+}
+.optionPadding {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.options {
+  border: 1px solid darkgray;
+  background-color: lightgray;
+  color: black;
+  padding: 5px;
+  cursor: pointer;
+}
+.selectedAnswer {
+  border: 1px solid darkgray;
+  background-color: black;
+  color: white;
+  padding: 5px;
+  cursor: pointer;
+}
